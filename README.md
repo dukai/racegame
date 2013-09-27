@@ -5,4 +5,4 @@ a race game
 
 演示地址
 
-http://dkit.sinaapp.com/master/car.html
+http://dklogs.net/racegame/car.html
